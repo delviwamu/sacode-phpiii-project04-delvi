@@ -7,5 +7,5 @@
 	⚠️ Dasbor
 	⚠️ Profil
 	⚠️ Ubah Profil
+	⚠️ Ubah kata sandi
 	⚠️ Ubah foto
-	⚠️ Ubah kata Sandi
