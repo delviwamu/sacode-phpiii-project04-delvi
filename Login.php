@@ -35,8 +35,8 @@
 					</div>
 
 					<div class="form-group mb-3">
-						<label class="form-label text-muted" for="">Pasword</label>
-						<input type="pasword" name="" class="form-control form-control-lg py-3" placeholder="Masukan pasword" id="Pasword" required>
+						<label class="form-label text-muted" for="">Password</label>
+						<input type="password" name="" class="form-control form-control-lg py-3" placeholder="Masukan password" id="Password" required>
 					</div>
 
 					<div class="form-group mb-3">
@@ -47,7 +47,7 @@
 						<button type="submit" class="btn btn-primary fw-bold btn-lg py-3">Login</button>
 					</div>
 
-					<div>
+					<div class="text-center">
 						<p>Belum punya akun? <a href="registrasi.php">Registrsi</a></p>
 					</div>
 

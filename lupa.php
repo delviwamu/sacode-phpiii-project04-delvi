@@ -28,19 +28,17 @@
 						<hr>
 					</div>
 
-
-					
-
 					<div class="form-group mb-3">
-						<a href="Lupa.php">Lupa kata sandi</a>
+						<label class="form-label text-muted" for="">Atur ulang kata sandi</label>
+						<input type="email" name="" class="form-control form-control-lg py-3" placeholder="Masukan alamat email anda" id="email" required>	
 					</div>
 
 					<div class="mb-3 d-grid">
 						<button type="submit" class="btn btn-primary fw-bold btn-lg py-3">Login</button>
 					</div>
 
-					<div>
-						<p>Belum punya akun? <a href="registrasi.php">Registrsi</a></p>
+					<div class="text-center">
+						 <a href="registrasi.php">Kembali</a></p>
 					</div>
 
 

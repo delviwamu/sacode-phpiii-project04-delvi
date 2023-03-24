@@ -31,24 +31,33 @@
 
 					<div class="form-group mb-3">
 						<label class="form-label text-muted" for="">Nama Lengkap</label>
-						<input type="email" name="" class="form-control form-control-lg py-3" placeholder="Masukan nama lengkap" id="nama" required>	
+						<input type="nama" name="" class="form-control form-control-lg py-3" placeholder="Masukan nama lengkap" id="nama" required>	
 					</div>
 
 					<div class="form-group mb-3">
 						<label class="form-label text-muted" for="">Alamat Email</label>
-						<input type="pasword" name="" class="form-control form-control-lg py-3" placeholder="Masukan email" id="email" required>
+						<input type="email" name="" class="form-control form-control-lg py-3" placeholder="Masukan email" id="email" required>
 					</div>
 
 					<div class="form-group mb-3">
-						<a href="Lupa.php">Lupa kata sandi</a>
+						<label class="form-label text-muted" for="">Kata sandi</label>
+						<input type="sandi" name="" class="form-control form-control-lg py-3" placeholder="Masukan kata sandi" id="sandi" required>
 					</div>
+
+					<div class="form-group mb-3">
+						<label class="form-label text-muted" for="">Ulang Kata sandi</label>
+						<input type="sandi" name="" class="form-control form-control-lg py-3" placeholder="Masukan ulang kata sandi" id="ulang kata sandi" required>
+					</div>
+
+
+					
 
 					<div class="mb-3 d-grid">
-						<button type="submit" class="btn btn-primary fw-bold btn-lg py-3">Login</button>
+						<button type="submit" class="btn btn-primary fw-bold btn-lg py-3">Register</button>
 					</div>
 
-					<div>
-						<p>Belum punya akun? <a href="registrasi.php">Registrsi</a></p>
+					<div class="text-center">
+						<p>sudah punya akun? <a href="login.php">Login</a></p>
 					</div>
 
 
